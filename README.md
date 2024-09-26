@@ -14,7 +14,7 @@ Pixel sorting is a glitch art imaging effect that rearranges pixels in an image 
 _The Starry Night after colour sorting_
 &nbsp;
 &nbsp;
-![image](assets/earrings.png)
+![image](assets/brightness.png)
 _Girl with The Pearl Earring after brightness sorting_
 &nbsp;
 
