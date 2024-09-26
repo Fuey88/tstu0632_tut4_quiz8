@@ -1,4 +1,3 @@
-<div style="text-align: center; padding: 120px;">
 
 # Quiz 8 - Design Research
 _Tom Studley - tstu0632_
@@ -26,9 +25,10 @@ This technique will benefit our major assignment since it can be easily used alo
 To implement pixel sorting in p5.js, the approach will involve loading the pixel data of an image and rearranging them based on a specific criterion. This can be achieved by:
 &nbsp;
 &nbsp;
-                  __1. Creating a pixel array__
-                  __2. Applying a sorting algorithm__
-                  __3. Updating the canvas__
+            
+1. Creating a pixel array
+2. Applying a sorting algorithm
+3. Updating the canvas
 &nbsp;
 &nbsp;
 There are countless possibilities for the implementation of a sorting algorithm. It can influence elements of directionality, colour, brightness, animation, area-specificity, and randomisation. You can see one great code example combining some of these elements [here](https://happycoding.io/tutorials/p5js/images/pixel-sorter) creating a dynamic effect. Its outcome is demonstrated in the gif below. 
@@ -36,5 +36,3 @@ There are countless possibilities for the implementation of a sorting algorithm.
 &nbsp;
 ![image](assets/example.gif)
 _Lighter pixels are moved up, and darker pixels are moved down._
-
-</div>
