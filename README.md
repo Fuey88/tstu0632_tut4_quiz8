@@ -5,14 +5,13 @@ _Tom Studley - tstu0632_
 ## Part 1: Pixel Sorting Effect
 Pixel sorting is a glitch art imaging effect that rearranges pixels in an image based on those pixels properties. It creates an abstract and dynamic aesthetic where parts of the image remain the same while others become distorted. 
 
-
-<br>
+<br></br>
 ![image](assets/colour.png)
 _The Starry Night after colour sorting_
-<br>
+<br></br>
 ![image](assets/brightness.png)
 _Girl with the Pearl Earring after brightness sorting_
-<br>
+<br></br>
 
 This technique will benefit our major assignment since it can be easily used alongside perlin noise. It can be randomised and can paired with time-based animation. I am interested in using it to explore the deconstruction and reconstruction of an image at an 'atomic' level.
 
