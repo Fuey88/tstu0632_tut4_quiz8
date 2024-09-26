@@ -1,21 +1,18 @@
 
 # Quiz 8 - Design Research
 _Tom Studley - tstu0632_
-&nbsp;
-&nbsp;
+<br>
 ## Part 1: Pixel Sorting Effect
 Pixel sorting is a glitch art imaging effect that rearranges pixels in an image based on those pixels properties. It creates an abstract and dynamic aesthetic where parts of the image remain the same while others become distorted. 
 
 
-&nbsp;
-&nbsp;
+<br>
 ![image](assets/colour.png)
 _The Starry Night after colour sorting_
-&nbsp;
-&nbsp;
+<br>
 ![image](assets/brightness.png)
 _Girl with the Pearl Earring after brightness sorting_
-&nbsp;
+<br>
 
 This technique will benefit our major assignment since it can be easily used alongside perlin noise. It can be randomised and can paired with time-based animation. I am interested in using it to explore the deconstruction and reconstruction of an image at an 'atomic' level.
 
@@ -27,6 +24,7 @@ To implement pixel sorting in p5.js, the approach will involve loading the pixel
 3. Updating the canvas<br>
 
 There are countless possibilities for the implementation of a sorting algorithm. It can influence elements of directionality, colour, brightness, animation, area-specificity, and randomisation. You can see one great code example combining some of these elements [here](https://happycoding.io/tutorials/p5js/images/pixel-sorter) creating a dynamic effect. Its outcome is demonstrated in the gif below.
+<br>
 <br>
 ![image](assets/example.gif)
 <br>
